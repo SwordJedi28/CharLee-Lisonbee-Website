@@ -1,0 +1,100 @@
+
+/* CharLee Lisonbee 
+IS 201 Section 006
+3/30/25  */
+
+
+p{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+a{
+font-family:Arial, Helvetica, sans-serif;
+}
+
+img{
+
+border: 5px solid rgb(4, 4, 37);
+
+}
+
+h2{
+
+    background-color: rgb(4, 44, 10);
+    color: white
+
+}
+
+h4{
+
+    background-color: rgb(2, 31, 7);
+    color: white
+
+}
+
+li{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+ol{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+ul{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.text1{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.fontcolor {
+
+    color:rgb(0, 8, 34)
+}
+
+.fontfamily {
+
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.middleC {
+    text-align: center;
+}
+
+.listheadingA {
+    font-weight: bold;
+    font-style: normal;
+}
+
+.textunder {
+    text-decoration: underline;
+}
+
+.resize {
+    width: 5px;  /* Adjust the width as needed */
+    height: auto;  /* Maintains aspect ratio */
+    max-width: 100%;  /* Ensures responsiveness */
+}
+
+.padding {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    box-sizing: border-box;
+    display: inline-block; 
+}
+
+
+.leffsection {
+    top: 500px;
+    left: 5px;
+    width:100px;
+    bottom: 100px;
+    z-index: 1;
+    padding-top: 40px;
+    padding-left: 50px;
+    border-right: solid 1px #000000;
+}

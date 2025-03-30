@@ -1,0 +1,106 @@
+
+/* CharLee Lisonbee 
+IS 201 Section 006
+3/30/25  */
+
+
+/* The style when who hover over an a or tab */
+a:hover {
+    text-decoration: underline;
+    color: yellow
+}
+
+a{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:aqua
+    }
+    
+
+/* The style for the body of the website */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #c7c7c7;
+    background-color:rgb(47, 65, 82);
+}
+
+/* To center an image with 20% height and width */
+.centered-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: 20%;
+}
+
+/* T0 center an image with 50% height and width */
+.centered-imageB{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+}
+
+/* To help with centering lists */
+.centerlist {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    list-style-position: inside;
+}
+
+
+/* To center text */
+.centerA {
+    text-align: center;
+}
+
+/* The color and alignment of h1 */
+h1 {color:rgb(127, 146, 255);
+    text-align: center;
+}
+
+
+
+.headertop {
+    top: 10px;
+    left: 50px;
+    right: 50x;
+    height: 35px;
+    z-index: 2;
+    border-bottom: solid 1px #000000;
+    background-color: rgb(0, 0, 61);
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 20px;
+    
+}
+
+.footer {
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    font-size: 8px;
+    color: #cacaca;
+    background-color: rgb(18, 18, 77);
+    text-align: center;
+    padding-top: 15px;
+    position: fixed;
+}
+
+
+.magicfont {
+    font-family: fantasy;
+    font-weight: lighter;
+    font-size: 50px;
+}
+
+.magicfont2 {
+    font-family: fantasy;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+
